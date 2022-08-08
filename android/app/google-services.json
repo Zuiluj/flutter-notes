@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455342987983",
+    "project_id": "mynotes-proj-julz",
+    "storage_bucket": "mynotes-proj-julz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455342987983:android:fe25de119938a6428eb5ba",
+        "android_client_info": {
+          "package_name": "com.juliuzllanillo.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455342987983-20rotfukh93e400gppempb07kk07mhgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97HxNKe-zL0FZkBSkwXxJeHst1i3iG8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455342987983-20rotfukh93e400gppempb07kk07mhgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
